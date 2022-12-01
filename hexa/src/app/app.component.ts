@@ -70,12 +70,5 @@ export class AppComponent implements OnInit {
   return this.items
 
   }
-  // onChangeDisclaimers(disclaimers) {
-  //   const filter = {};
-  //   disclaimers.forEach(item => {
-  //     filter[item.property] = item.value;
-  //   });
-  //   this.searchItems(filter);
-  // }
 
 }
